@@ -11,3 +11,5 @@ if (greeting === "Hey what's good!?" && number <= 1){
 else{
     console.log("Home ways lol!")
 }
+
+alert("Hello");
